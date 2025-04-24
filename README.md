@@ -1,3 +1,3 @@
 # Week 14
 
-Image Networks, CNNs
+Convolutional Neural Network and Residual Nets
