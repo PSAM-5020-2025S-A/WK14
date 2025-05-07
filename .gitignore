@@ -5,4 +5,3 @@ __pycache__/
 *.py.*
 *.pyc.*
 data/image/lfw
-!WK14_utils.py
